@@ -1,4 +1,9 @@
-![Training GIF](https://doimages.nyc3.cdn.digitaloceanspaces.com/010AIML/content/images/2018/05/68747470733a2f2f707669676965722e6769746875622e696f2f6d656469612f696d672f70617274312f6772616469656e745f64657363656e742e676966.gif)
+<h3 align="center">Hello :) </h3>
+
+<p align="center">
+  <img src="https://doimages.nyc3.cdn.digitaloceanspaces.com/010AIML/content/images/2018/05/68747470733a2f2f707669676965722e6769746875622e696f2f6d656469612f696d672f70617274312f6772616469656e745f64657363656e742e676966.gif" alt="Training GIF" />
+</p>
+
 
 
 # 🧠 Logistic Regression from Scratch with GD, SGD, and Mini-Batch
